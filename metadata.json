@@ -1,0 +1,6 @@
+{
+  "name": "391K — 24h Circle Time Widget",
+  "description": "Precision 00-24 circular time dial and Excel schedule workspace for 391K.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
